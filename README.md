@@ -1,7 +1,7 @@
 <h2>Hi there :wave:</h2>
 I'm a college student currently working with ETL and business intelligence
 
-### languages :computer:
+### Languages :computer:
 - Java
 - C
 - JavaScript
