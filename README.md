@@ -3,8 +3,9 @@ I'm a college student currently working with ETL and business intelligence
 
 ### Languages :computer:
 - Java
-- C
 - JavaScript
+- Python
+- C
 - SQL
 <h2>LinkedIn :briefcase:</h2>
 https://www.linkedin.com/in/felipeavzampa/
