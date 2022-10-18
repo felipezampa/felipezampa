@@ -20,7 +20,7 @@ I'm a college student currently working with ETL and business intelligence
 
 <h2>LinkedIn :briefcase:</h2>
 https://www.linkedin.com/in/felipeavzampa/
-
+<!--
 <hr>
 <div align="center">
 
@@ -31,3 +31,4 @@ https://www.linkedin.com/in/felipeavzampa/
 <div align="center">
   <p>Créditos da animação: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
 </div>
+-->
